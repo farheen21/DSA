@@ -2,7 +2,6 @@
 // Brute Force:- for loop with a[i] = nums[nums[i]];
 
 // optimazation :- Uses modulo and / operation for storing the two number.
-
 class Solution
 {
 public:
